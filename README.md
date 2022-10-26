@@ -12,13 +12,17 @@ The fundraising goal for the play "Fever" has nearly been met. The purpose of th
 
 When looking at campaign outcomes based on launch date, the month with the greatest number of successful campaigns was May with 111. The next best month for the number of successful campaigns was June with 100. May and June also had the greatest number of campaign launches with 166 and 153 respectively. The number of failed campaigns remained relatively stable throughout each month, only fluctuating from 31 on the low end to 50 on the high end.
 
-Chart 1:![Outcomes Based on Launch Date](Kickstarter-Analysis/Resources/Theater_Outcomes_vs_Launch.png)
+Chart 1: Outcomes Based on Launch Date
+
+![Outcomes Based on Launch Date](https://github.com/TravisTornquist/Kickstarter-Analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png?raw=true)
 
 ### Analysis of Outcomes Based on Goals
 
 When looking at campaign outcomes based on goal amounts, campaigns with goals lower than 19,999 dollars and campaigns ranging from 35,000 to 44,999 dollars had success rates of 50% or greater. Campaigns for less than 1,000 dollars and campaigns ranging from 1,000 to 4,999 dollars had the greatest success rates at 76% and 73% respectively. Although campaigns ranging from 35,000 to 44,999 dollars had the next highest success rate at 67%, the success rate may not be applicable to further campaigns since there are only 9 in this range.
 
-Chart 2:![Outcomes Based on Goal](Kickstarter-Analysis/Resources/Outcomes_vs_Goals.png)
+Chart 2: Outcomes Based on Goals
+
+![Outcomes Based on Goal](https://github.com/TravisTornquist/Kickstarter-Analysis/blob/main/Resources/Outcomes_vs_Goals.png?raw=true)
 
 ### Challenges and Difficulties Encountered
 
